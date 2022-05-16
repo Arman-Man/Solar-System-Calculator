@@ -1,3 +1,13 @@
 # Solar-System-Calculator
 
-Calculate person attributes on different planets. Calculate information on speed, distance and travel time involved with traveling across the local solar system.
+Run simulations for space travel in the local solar system. Calculations involving astronaut and spacecraft parameters.
+
+Astronaut calculations:
+- age
+- mass
+- jump height
+
+Spacecraft calculations:
+- distance
+- speed
+- time
